@@ -4,7 +4,7 @@ const fs = require('fs')
 http
 .createServer((req, res) => {
     if (req.url == '/HelloWorld.html' || req.url == '/index.html') {
-        fs.readFile('.' + req.url, 'utf-8', (err, data) => {
+        fs.readFile(__dirname + req.url, 'utf-8', (err, data) => {
             if (err) throw err
             res.end(data)
         })
@@ -15,8 +15,5 @@ http
     }
 })
 .listen(8080, 'localhost', () => {
-    console.log('服务器开始监听')
-})
-.close(() => {
-    console.log('服务器关闭')
+    console.log('服务器开始监听localhost:8080')
 })
