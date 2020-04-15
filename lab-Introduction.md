@@ -15,7 +15,7 @@ http tcp dns
 ## 参考资料
 
 Wireshark实验：入门 (Page52)
-* 官方文档第六版：[Wireshark_Intro_v6.0.pdf](WiresharkLab/Wireshark实验-Intro/Wireshark_Intro_v6.0.pdf)
-* 官方文档第七版：[Wireshark_Intro_v7.0.pdf](WiresharkLab/Wireshark实验-Intro/Wireshark_Intro_v7.0.pdf)
-* 翻译：[Wireshark实验-Intro.md](WiresharkLab/Wireshark实验-Intro/Wireshark实验-Intro.md)
-* 解答：[计算机网络实验-入门.pdf](WiresharkLab/Wireshark实验-Intro/计算机网络实验-入门.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
+* 官方文档第六版：[Wireshark_Intro_v6.0.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-Intro/Wireshark_Intro_v6.0.pdf)
+* 官方文档第七版：[Wireshark_Intro_v7.0.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-Intro/Wireshark_Intro_v7.0.pdf)
+* 翻译：[Wireshark实验-Intro.md](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-Intro/Wireshark实验-Intro.md)
+* 解答：[计算机网络实验-入门.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-Intro/计算机网络实验-入门.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )

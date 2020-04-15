@@ -47,8 +47,8 @@
 `Authorization: Basic d2lyZXNoYXJrLXN0dWRlbnRzOm5ldHdvcms=`
 ## 参考资料
 * [HTTP Headers](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers)
-* 官方文档第六版：[Wireshark_HTTP_v6.1.pdf](WiresharkLab/Wireshark实验-HTTP/Wireshark_HTTP_v6.1.pdf)
-* 官方文档第七版：[Wireshark_HTTP_v7.0.pdf](WiresharkLab/Wireshark实验-HTTP/Wireshark_HTTP_v7.0.pdf)
-* 翻译：[Wireshark实验-HTTP.md](WiresharkLab/Wireshark实验-HTTP/Wireshark实验-HTTP.md)
-* 解答部分1：[计算机网络实验-HTTP1.pdf](WiresharkLab/Wireshark实验-HTTP/计算机网络实验-HTTP1.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
-* 解答部分2：[计算机网络实验-HTTP2.pdf](WiresharkLab/Wireshark实验-HTTP/计算机网络实验-HTTP2.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
+* 官方文档第六版：[Wireshark_HTTP_v6.1.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-HTTP/Wireshark_HTTP_v6.1.pdf)
+* 官方文档第七版：[Wireshark_HTTP_v7.0.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-HTTP/Wireshark_HTTP_v7.0.pdf)
+* 翻译：[Wireshark实验-HTTP.md](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-HTTP/Wireshark实验-HTTP.md)
+* 解答部分1：[计算机网络实验-HTTP1.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-HTTP/计算机网络实验-HTTP1.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
+* 解答部分2：[计算机网络实验-HTTP2.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-HTTP/计算机网络实验-HTTP2.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )

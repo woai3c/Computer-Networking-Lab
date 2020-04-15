@@ -58,10 +58,10 @@ IP `104.20.1.85` 与 `www.ietf.org.cdn.cloudflare.net` 对应
 
 
 ## 参考资料
-* 官方文档第六版：[Wireshark_DNS_v6.01.pdf](WiresharkLab/Wireshark实验-DNS/Wireshark_DNS_v6.01.pdf)
-* 官方文档第七版：[Wireshark_DNS_v7.0.pdf](WiresharkLab/Wireshark实验-DNS/Wireshark_DNS_v7.0.pdf)
-* 翻译：[Wireshark实验-DNS.md](WiresharkLab/Wireshark实验-DNS/Wireshark实验-DNS.md)
-* 解答1：[DNS-参考答案.md](WiresharkLab/Wireshark实验-DNS/DNS-参考答案.md)（ [Ying](https://github.com/IrisZhang) )
-* 解答2：[计算机网络实验-DNS.pdf](WiresharkLab/Wireshark实验-DNS/计算机网络实验-DNS.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
+* 官方文档第六版：[Wireshark_DNS_v6.01.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-DNS/Wireshark_DNS_v6.01.pdf)
+* 官方文档第七版：[Wireshark_DNS_v7.0.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-DNS/Wireshark_DNS_v7.0.pdf)
+* 翻译：[Wireshark实验-DNS.md](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-DNS/Wireshark实验-DNS.md)
+* 解答1：[DNS-参考答案.md](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-DNS/DNS-参考答案.md)（ [Ying](https://github.com/IrisZhang) )
+* 解答2：[计算机网络实验-DNS.pdf](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES/blob/master/WiresharkLab/Wireshark实验-DNS/计算机网络实验-DNS.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
 
 **（[CHN-STUDENT](https://github.com/chn-student)注：DNS实验中一个服务器已经不在使用，且部分现象无法解释，仅供参考。）**
