@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>demo1</title>
+    <style>
+        html, body {
+            height: 100%;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        main {
+            height: calc(100% - 120px);
+            border: 1px solid blue;
+        }
+        header, footer {
+            height: 60px;;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid red;
+        }
+        header {
+            justify-content: flex-end;
+        }
+        ul {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        li {
+            list-style: none;
+            border: 1px solid orange;
+            height: 60px;
+            line-height: 60px;
+            width: 100px;
+            text-align: center;
+        }
+        main {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        aside {
+            width: 20%;
+            border: 1px solid #000;
+            height: 100%;
+        }
+        .right {
+            width: 80%;
+            height: 100%;
+        }
+        section {
+            height: 200px;
+            border: 1px solid green;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+                <li>4</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <aside>
+            <p>这是一个侧边栏 aside</p>
+        </aside>
+        <div class="right">
+            <section>
+                <p>p1</p>
+                <p>p2</p>
+            </section>
+            <section>
+                <p>p3</p>
+                <p>p4</p>
+            </section>
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
