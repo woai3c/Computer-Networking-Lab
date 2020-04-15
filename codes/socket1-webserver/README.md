@@ -19,3 +19,8 @@ node client2.js localhost 8080 index.html
 // or
 // node client2.js localhost 8080 HelloWorld.html
 ```
+
+## 参考资料
+* 官方文档：[Socket1_WebServer.pdf](SocketProgrammingAssignment/作业1-Web服务器/Socket1_WebServer.pdf)
+* 翻译：[作业1-Web服务器-翻译.md](SocketProgrammingAssignment/作业1-Web服务器/作业1-Web服务器-翻译.md)
+* 解答：[作业1-Web服务器-解答.md](SocketProgrammingAssignment/作业1-Web服务器/作业1-Web服务器-解答.md)
