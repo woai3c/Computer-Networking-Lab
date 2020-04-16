@@ -1,0 +1,27 @@
+{
+  "name": "Computer-Networking-Lab",
+  "version": "1.0.0",
+  "description": "* [Wireshark](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/wireshark.md)\r ## 实验\r * [Wireshark实验：入门 (Page52)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-Introduction.md)\r * [Wireshark实验：HTTP (Page121)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-http.md)\r * [Wireshark实验：DNS (Page121)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-dns.md)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "nodemailer": "^6.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woai3c/Computer-Networking-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woai3c/Computer-Networking-Lab/issues"
+  },
+  "homepage": "https://github.com/woai3c/Computer-Networking-Lab#readme"
+}
