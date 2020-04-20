@@ -8,8 +8,8 @@
 ## TCP 报文段结构
 TCP 报文由首部字段和数据字段两部分组成。
 
-### 首部字段
 ![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/tcp.png)
+### 首部字段
 #### 1. 源端口号和目的端口号
 用于多路复用/分解
 #### 2. 32 比特的序号字段和确认号字段
