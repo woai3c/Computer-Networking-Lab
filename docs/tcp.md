@@ -9,6 +9,7 @@
 TCP 报文由首部字段和数据字段两部分组成。
 
 ### 首部字段
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/tcp.png)
 #### 1. 源端口号和目的端口号
 用于多路复用/分解
 #### 2. 32 比特的序号字段和确认号字段
@@ -32,7 +33,6 @@ PSH URG 一般不使用
 * PSH 被设置时，表示接收方应立即将数据交给上层
 * URG 表示报文段存在被发送方上层置为“紧急”的数据
 
-![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/tcp.png)
 ## 连接建立过程（三次握手）
 1. 客户端发送一个不包含应用层数据的 TCP 报文段，首部的 SYN 置为 1，随机选择一个初始序号放在 TCP 报文段的序号字段中。
 2. TCP 报文段到达服务器主机后，提取报文段，为该 TCP 连接分配缓存和变量，并向客户端发送允许连接的 TCP 报文段（不包含应用层数据）。
