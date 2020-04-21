@@ -133,3 +133,5 @@ step3：此后每收到一个重复的ACK确认时，cwnd++
 step4：当收到对新发送数据的ACK确认时，cwnd = ssthresh，这个ACK能够对那些在
 丢失的分组之后，第一个重复ACK之前发送的所有包进行确认。
 ```
+### 11. 发送窗口
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/sendwindow.jpg)
