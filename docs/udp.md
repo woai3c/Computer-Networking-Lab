@@ -8,3 +8,5 @@
 
 ## TCP 报文段结构
 UDP 报文由首部字段和数据字段两部分组成。
+
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/udp.jpg)
