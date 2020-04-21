@@ -13,6 +13,7 @@ FTP 客户和服务器之间要建立两个并行的 TCP 连接：控制连接�
 * 启动从属进程处理客户请求，从属进程处理完客户请求即终止
 * 回到等待状态，主进程和从属进程是并行的
 
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ftp.png)
 ## TFTP 特点
 #### 1. 基于 UDP
 #### 2. 只支持文件传输，不支持交互
