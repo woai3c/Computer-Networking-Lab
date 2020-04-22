@@ -11,3 +11,7 @@ DHCP 使用客户服务器模式，报文基于 UDP。
 7. 租用期到了一半，客户端发送请求报文，要求更新租用期。如果服务器不响应此报文，则在租用期到了 87.5% 时再次发送请求要求更新租用期。
 8. 如果服务器同意，客户端则获得一个新的租用期，否则要立即停用现在的 IP 地址，重新申请 IP。
 9. 客户端可随时发送释放报文终止服务器所提供的租用期。
+
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/dhcp.png)
+
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/dhcp2.png)
