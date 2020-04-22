@@ -4,6 +4,7 @@
 #### 应用层
 * [dns](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/dns.md)
 * [ftp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ftp.md)
+* [dhcp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/dhcp.md)
 #### 传输层
 * [tcp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/tcp.md)
 * [udp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/udp.md)
