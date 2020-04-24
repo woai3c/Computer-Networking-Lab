@@ -2,7 +2,7 @@
 网络层向上提供简单灵活的、无连接的、尽最大努力交付的数据报服务。网络层不用先建立连接，不提供服务质量的承诺。
 分组不进行编号，并且所传送的分组有可能丢失、出错、重复和失序，也不保证交付时限。
 
-![](imgs/ip1.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip1.png)
 
 #### 网络层两种重要的功能：
 1. 转发 将分组从路由器的入链路转发到出链路。
@@ -15,7 +15,7 @@
 4. 在网络层以上使用的中间设备叫网关。
 
 ## IP 数据报格式
-![](imgs/ip6.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip6.png)
 
 1. 版本，4位，现在使用的版本有 IPv4、IPv6。
 2. 首部长度，4位，常用首部长度为 20 字节，当首部长度不是 4 的整数倍时，需要填充字节。
@@ -25,14 +25,14 @@
 6. 标志，3位，最低位 MF = 1 时，表示后面还有分片，MF = 0 时，表示这是最后一个分片。中间的一位为 DF，DF = 1 时，表示不能分片， DF = 0 时，表示允许分片。
 7. 片偏移，13位，分组在分片后，某分片在原分组中的相对位置，即相对于数据字段的起点，该片从何处开始。片偏移以 8 个字节为偏移单位，即分片长度为 8 字节的整数倍。
 
-![](imgs/ip7.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip7.png)
 
-![](imgs/ip8.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip8.png)
 
 8. 生存时间，8位，英文缩写 TTL，最大值为 255。路由器每次转发数据报之前，把 TTL 减 1，若减到为 0，则丢弃这个数据报。
 9. 协议，8位，指出此数据报携带的数据使用何种协议，以便目的主机的 IP 层知道应将数据部分上交给哪个协议进行处理。
 
-![](imgs/ip9.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip9.png)
 
 10. 首部检验和，16位，只检验数据报的首部字段，不包括数据部分，每经过一个路由器都要重新计算首部校验和。
 11. 源地址，32位。
@@ -54,7 +54,7 @@
 2. 网际控制报文协议 ICMP。
 3. 网际组管理协议 IGMP。
 
-![](imgs/ip2.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip2.png)
 
 ## IP 地址
 IP 地址由网络号和主机号组成，它是分等级的地址结构。分等级有两个好处：
@@ -91,9 +91,9 @@ B 类地址主机号占 2 个字节，最大主机数为 2**16 - 2，B 类地址
 #### C 类地址
 C 类地址主机号占 1 个字节，最大主机数为 2**8 - 2，C 类地址空间约占整个 IP 地址空间的 12.5%。
 
-![](imgs/ip3.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip3.png)
 
-![](imgs/ip4.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip4.png)
 
 #### 其他特点
 1. IP 地址标志着一台主机（或路由器）和一条链路的接口。
@@ -102,7 +102,7 @@ C 类地址主机号占 1 个字节，最大主机数为 2**8 - 2，C 类地址�
 4. IP 地址放在 IP 数据报首部，硬件地址（MAC）放在 MAC 帧的首部。
 5. IP 数据报中的源和目的地址始终不变，MAC 帧中的源和目的地址在不同的网络上都会变化。
 
-![](imgs/ip5.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip5.png)
 
 
 ### 子网划分
@@ -116,9 +116,9 @@ IP 地址 = {<网络号>, <子网号>, <主机号>}
 假如一个 IP 数据报（目的地址 145.13.3.10）到达了路由器，怎么分辨这个目的主机所连的网络是否进行了子网划分？
 不管有没有进行子网划分，只要把 IP 地址和子网掩码进行按位与，就能得到网络地址。
 
-![](imgs/ip10.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip10.png)
 
-![](imgs/ip11.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip11.png)
 
 
 所有的网络都必须使用子网掩码。
@@ -149,7 +149,7 @@ CIDR 使三级编址又回到了两级编址，但这是无分类编址。CIDR �
 
 2. CIDR 把网络前缀都相同的 IP 地址组成一个 CIDR 地址块。知道这个地址块中的任意一个地址，就能知道地址块的起始地址和最大地址、地址数量。
 
-![](imgs/ip12.png)
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/ip12.png)
 
 3. CIDR 使用 32 位的地址掩码，其中 1 的个数就是网络前缀的长度。
 4. 由于 CIDR 地址块包含很多地址，所以在路由表中就利用 CIDR 地址块查找目的网络，这种地址的聚合称为路由聚合。
