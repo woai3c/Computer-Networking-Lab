@@ -10,7 +10,8 @@
 * [udp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/udp.md)
 #### 网络层
 * [ip](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ip.md)
-
+* [arp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/arp.md)
+* [icmp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/icmp.md)
 
 ## 实验
 * [Wireshark实验：入门 (Page52)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-Introduction.md)
@@ -26,3 +27,5 @@
 
 ## 参考资料
 * [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
+* [计算机网络--自顶向下](https://book.douban.com/subject/30280001/)
+* [计算机网络](https://book.douban.com/subject/26960678/)
