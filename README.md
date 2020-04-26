@@ -19,6 +19,7 @@
 * [Wireshark实验：DNS (Page121)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-dns.md)
 * [Wireshark实验：探究TCP (Page200)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-tcp.md)
 * [Wireshark实验：探究UDP (Page201)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-udp.md)
+* [Wireshark实验：探究IP (Page288)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-ip.md)
 
 ## 作业
 * [套接字编程作业1：Web服务器](https://github.com/woai3c/Computer-Networking-Lab/tree/master/codes/socket1-webserver)
