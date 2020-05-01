@@ -12,6 +12,9 @@
 * [ip](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ip.md)
 * [arp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/arp.md)
 * [icmp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/icmp.md)
+#### 数据链路层
+* [数据链路层](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/link-layer.md)
+* [ppp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ppp.md)
 
 ## 实验
 * [Wireshark实验：入门 (Page52)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-Introduction.md)
