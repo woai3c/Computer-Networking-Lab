@@ -15,3 +15,6 @@ DHCP 使用客户服务器模式，报文基于 UDP。
 ![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/dhcp.png)
 
 ![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/dhcp2.png)
+
+## DHCP 报文格式
+![](https://github.com/woai3c/Computer-Networking-Lab/blob/master/imgs/dhcp3.png)
