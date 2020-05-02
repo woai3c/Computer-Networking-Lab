@@ -13,7 +13,7 @@
 * [arp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/arp.md)
 * [icmp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/icmp.md)
 #### 数据链路层
-* [数据链路层](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/link-layer.md)
+* [数据链路层](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ethernet.md)
 * [ppp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ppp.md)
 
 ## 实验
