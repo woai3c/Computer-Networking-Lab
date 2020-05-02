@@ -16,6 +16,7 @@
 * [数据链路层](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ethernet.md)
 * [ppp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ppp.md)
 
+#### [物理层](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/physical-layer.md)
 ## 实验
 * [Wireshark实验：入门 (Page52)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-Introduction.md)
 * [Wireshark实验：HTTP (Page121)](https://github.com/woai3c/Computer-Networking-Lab/blob/master/lab-http.md)
