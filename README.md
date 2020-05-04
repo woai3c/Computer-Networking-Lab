@@ -3,7 +3,7 @@
 * [Wireshark](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/wireshark.md)
 * [网络安全](docs/internet-security.md)
 * [无线网络](docs/wireless-network.md)
-* [多媒体服务](docs/multi-media.md)
+* [多媒体网络](docs/multi-media.md)
 #### 应用层
 * [dns](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/dns.md)
 * [ftp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ftp.md)
