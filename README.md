@@ -1,5 +1,5 @@
 # 计算机网络-自顶向下-第六版实验
-## 文档
+## 笔记
 * [Wireshark](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/wireshark.md)
 * [网络安全](docs/internet-security.md)
 * [无线网络](docs/wireless-network.md)
