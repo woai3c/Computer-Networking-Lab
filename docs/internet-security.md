@@ -170,9 +170,9 @@ SSL 还缺少一些措施来防止在互联网商务中出现各种可能的欺�
 
 #### SSL 建立连接与关闭
 
-![](../imgs/is13.png)
-
 ![](../imgs/is14.png)
+
+![](../imgs/is15.png)
 
 更具体的过程请看参考资料[SSL/TLS 握手过程详解](https://www.jianshu.com/p/7158568e4867)
 
