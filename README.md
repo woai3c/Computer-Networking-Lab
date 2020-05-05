@@ -5,6 +5,7 @@
 * [无线网络](docs/wireless-network.md)
 * [多媒体网络](docs/multi-media.md)
 #### 应用层
+* [http](https://github.com/woai3c/Computer-Networking-Lab/tree/master/docs/http)
 * [dns](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/dns.md)
 * [ftp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/ftp.md)
 * [dhcp](https://github.com/woai3c/Computer-Networking-Lab/blob/master/docs/dhcp.md)
