@@ -24,6 +24,6 @@
 # [HTTP2基础教程](https://book.douban.com/subject/27665112/)——学习笔记
 1. HTTP 进化史（略）
 2. HTTP/2 快速入门（略）
-3. [Web 优化“黑魔法”的动机与方式](htt2-3.md)
-4. [HTTP/2 迁移](htt2-4.md)
-5. [HTTP/2 协议](htt2-5.md)
+3. [Web 优化“黑魔法”的动机与方式](http2-3.md)
+4. [HTTP/2 迁移](http2-4.md)
+5. [HTTP/2 协议](http2-5.md)
